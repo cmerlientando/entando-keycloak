@@ -1,4 +1,4 @@
-FROM jboss/keycloak:11.0.0-portalefornitori-1.0.0
+FROM jboss/keycloak:11.0.0-portalefornitori-1.0.1
 LABEL MAINTAINER="Entando <dev@entando.com>"
 
 COPY themes /opt/jboss/keycloak/themes
